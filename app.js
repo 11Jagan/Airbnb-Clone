@@ -65,9 +65,9 @@ async function main() {
   await mongoose.connect(db_url);
 }
 
-// app.get("/", (req, res) => {
-//   res.send("Hi am root");
-// });
+app.get("/", (req, res) => {
+  res.redirect("/listings");
+});
 
 app.use(session(sessionOptions));
 app.use(flash());
