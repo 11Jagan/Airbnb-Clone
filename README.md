@@ -1,34 +1,32 @@
-#🌍 Airbnb Clone – WanderStay
-Live Demo: 🔗 https://wanderstay-ks67.onrender.com
+# 🌍 Airbnb Clone – WanderStay
 
-A full-stack Airbnb-style web application where users can sign up, log in, browse listings, add/edit/delete accommodations, and leave reviews. Built with the MERN stack principles using Express and MongoDB on the backend, and Bootstrap for responsive styling.
+**🔗 Live Demo:** [https://wanderstay-ks67.onrender.com](https://wanderstay-ks67.onrender.com)
 
-**✨ Features**
-🔐 User Authentication: Sign up, log in, and session-based access control
+A full-stack Airbnb-style web application where users can sign up, log in, browse listings, add/edit/delete accommodations, and leave reviews. Built using Express and MongoDB on the backend, and Bootstrap for responsive UI styling.
 
-🏡 Listing Management: Add, edit, and delete property listings
+---
 
-💬 Review System: Add and delete user reviews on listings
+## ✨ Features
 
-⚡ Flash Messages: User feedback after key actions (e.g., listing deleted, review added)
+- 🔐 **User Authentication** – Sign up, log in, and session-based access control  
+- 🏡 **Listing Management** – Add, edit, and delete property listings  
+- 💬 **Review System** – Add and delete user reviews on listings  
+- ⚡ **Flash Messages** – Feedback after key actions (e.g., listing deleted, review added)  
+- 🔁 **RESTful API** – Clean and resource-based routing  
+- 🗃️ **Session Store** – Persistent login using `express-session` and `connect-mongo`
 
-🔁 RESTful API: Clean, resource-based routing
+---
 
-🗃️ Session Store: Persistent login using express-session and connect-mongo
+## 🛠 Tech Stack
 
-🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Authentication**: `express-session` with MongoDB store  
+- **Deployment**: Render (Cloud Deployment Platform)  
+- **Other Tools**: EJS, Method-Override, Flash Messaging
 
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: Express-session with MongoDB store
-
-Deployment: Render (Cloud Deployment Platform)
-
-Other Tools: EJS, Method-Override, Flash Messaging
-
+---
 🚀 Quick Start
 Clone the Repository
 
@@ -44,5 +42,7 @@ Start the Server
 ```
 npm start
 ```
-🚧 In Development
+---
+# 🚧 In Development
+
 🔍 Search functionality and filtering features are currently in development to enhance user experience and make property discovery faster and more efficient.
