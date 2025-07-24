@@ -1,9 +1,9 @@
-🌍 Airbnb Clone – WanderStay
+#🌍 Airbnb Clone – WanderStay
 Live Demo: 🔗 https://wanderstay-ks67.onrender.com
 
 A full-stack Airbnb-style web application where users can sign up, log in, browse listings, add/edit/delete accommodations, and leave reviews. Built with the MERN stack principles using Express and MongoDB on the backend, and Bootstrap for responsive styling.
 
-✨ Features
+**✨ Features**
 🔐 User Authentication: Sign up, log in, and session-based access control
 
 🏡 Listing Management: Add, edit, and delete property listings
@@ -44,10 +44,5 @@ Start the Server
 ```
 npm start
 ```
-🌐 Access the Live Site
-Click the link below to explore the app:
-
-🔗 WanderStay - Live Airbnb Clone
-
 🚧 In Development
 🔍 Search functionality and filtering features are currently in development to enhance user experience and make property discovery faster and more efficient.
