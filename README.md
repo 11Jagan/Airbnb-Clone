@@ -1,9 +1,9 @@
-###🌍 Airbnb Clone – WanderStay
+🌍 Airbnb Clone – WanderStay
 Live Demo: 🔗 https://wanderstay-ks67.onrender.com
 
 A full-stack Airbnb-style web application where users can sign up, log in, browse listings, add/edit/delete accommodations, and leave reviews. Built with the MERN stack principles using Express and MongoDB on the backend, and Bootstrap for responsive styling.
 
-#✨ Features
+✨ Features
 🔐 User Authentication: Sign up, log in, and session-based access control
 
 🏡 Listing Management: Add, edit, and delete property listings
@@ -16,7 +16,7 @@ A full-stack Airbnb-style web application where users can sign up, log in, brows
 
 🗃️ Session Store: Persistent login using express-session and connect-mongo
 
-#🛠 Tech Stack
+🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Backend: Node.js, Express.js
@@ -32,7 +32,6 @@ Other Tools: EJS, Method-Override, Flash Messaging
 🚀 Quick Start
 Clone the Repository
 
-
 ```
 git clone https://github.com/your-username/airbnb-clone.git
 cd airbnb-clone
@@ -45,20 +44,10 @@ Start the Server
 ```
 npm start
 ```
-#🌐 Access the Live Site
+🌐 Access the Live Site
 Click the link below to explore the app:
 
 🔗 WanderStay - Live Airbnb Clone
 
-#🚧 In Development
+🚧 In Development
 🔍 Search functionality and filtering features are currently in development to enhance user experience and make property discovery faster and more efficient.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
